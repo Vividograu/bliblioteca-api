@@ -1,0 +1,6 @@
+src/controllers/.gitkeep
+src/models/.gitkeep
+src/routes/.gitkeep
+src/config/.gitkeep
+tests/.gitkeep
+docs/.gitkeep
